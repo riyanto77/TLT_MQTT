@@ -40,10 +40,6 @@ const int chipSelect = 4;
 TinyGPSPlus gps;
 SoftwareSerial SerialGPS(4, 3); 
 
-//const char* ssid = "HARD";
-//const char* password = "timeisupbro";
-//const char* ssid = "iot";
-//const char* password = "12345678";
 const char* ssid = "4G-UFI-606757";
 const char* password = "12345678";
 
